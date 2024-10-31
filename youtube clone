@@ -1,0 +1,99 @@
+import Image from "next/image"
+import Link from "next/link"
+import { Search, Menu, Mic, Video, Bell, User } from "lucide-react"
+
+import { Button } from "@/components/ui/button"
+import { Input } from "@/components/ui/input"
+import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
+
+export default function Component() {
+  return (
+    <div className="flex flex-col min-h-screen">
+      <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
+        <div className="container flex h-14 items-center">
+          <div className="flex items-center space-x-4 md:space-x-6">
+            <Button variant="ghost" size="icon">
+              <Menu className="h-6 w-6" />
+              <span className="sr-only">Menu</span>
+            </Button>
+            <Link href="/" className="flex items-center space-x-2">
+              <Video className="h-6 w-6 text-red-500" />
+              <span className="font-bold">YouTube</span>
+            </Link>
+          </div>
+          <div className="flex flex-1 items-center space-x-2 md:space-x-4 justify-center">
+            <form className="flex-1 max-w-lg">
+              <div className="relative">
+                <Input className="pl-4 pr-10" placeholder="Search" type="search" />
+                <Button className="absolute right-0 top-0 h-full px-3" type="submit" variant="ghost">
+                  <Search className="h-4 w-4" />
+                  <span className="sr-only">Search</span>
+                </Button>
+              </div>
+            </form>
+            <Button size="icon" variant="ghost">
+              <Mic className="h-4 w-4" />
+              <span className="sr-only">Voice search</span>
+            </Button>
+          </div>
+          <div className="flex items-center space-x-4">
+            <Button size="icon" variant="ghost">
+              <Video className="h-6 w-6" />
+              <span className="sr-only">Create</span>
+            </Button>
+            <Button size="icon" variant="ghost">
+              <Bell className="h-6 w-6" />
+              <span className="sr-only">Notifications</span>
+            </Button>
+            <Avatar>
+              <AvatarImage alt="User" src="/placeholder.svg?height=32&width=32" />
+              <AvatarFallback>U</AvatarFallback>
+            </Avatar>
+          </div>
+        </div>
+      </header>
+      <main className="flex-1">
+        <div className="container grid lg:grid-cols-4 gap-6 py-8">
+          <div className="lg:col-span-3 space-y-6">
+            <div className="aspect-video overflow-hidden rounded-xl">
+              <iframe
+                className="w-full h-full"
+                src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+              ></iframe>
+            </div>
+            <h1 className="text-2xl font-bold">Never Gonna Give You Up - Rick Astley</h1>
+            <div className="flex items-center justify-between">
+              <div className="flex items-center space-x-4">
+                <Avatar>
+                  <AvatarImage alt="Rick Astley" src="/placeholder.svg?height=40&width=40" />
+                  <AvatarFallback>RA</AvatarFallback>
+                </Avatar>
+                <div>
+                  <h2 className="font-semibold">Rick Astley</h2>
+                  <p className="text-sm text-muted-foreground">1.2M subscribers</p>
+                </div>
+              </div>
+              <Button>Subscribe</Button>
+            </div>
+            <div className="bg-muted p-4 rounded-lg">
+              <p className="text-sm">
+                Rick Astley's official music video for "Never Gonna Give You Up" Listen to Rick Astley:
+                https://RickAstley.lnk.to/_listenYD Subscribe to the official Rick Astley YouTube channel:
+                https://RickAstley.lnk.to/subscribeYD Follow Rick Astley: Facebook: https://RickAstley.lnk.to/followFI
+                Twitter: https://RickAstley.lnk.to/followTI Instagram: https://RickAstley.lnk.to/followII Website:
+                https://RickAstley.lnk.to/followWI Lyrics: Never gonna give you up Never gonna let you down Never gonna run
+                around and desert you Never gonna make you cry Never gonna say goodbye Never gonna tell a lie and hurt you
+                #RickAstley #NeverGonnaGiveYouUp #OfficialMusicVideo
+              </p>
+            </div>
+            <div className="space-y-4">
+              <h3 className="font-semibold">Comments</h3>
+              <div className="space-y-4">
+                <div className="flex space-x-4">
+                  <Avatar>
+                    <AvatarImage alt="User" src="/placeholder.svg?height=32&width=32" />
+                    <AvatarFallback>U</AvatarFallback>
+                  </Avatar>
+                  
