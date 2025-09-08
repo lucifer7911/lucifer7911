@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @lucifer7911
-- 👀 I’m interested in video editing and coding
-- 🌱 I’m Am Proficient in App Development(flutter),Back-end(Node-Js+Express),DevOps(Azure) 
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me -@2k23.csaiml2311171@gmail.com
-- 😄 Pronouns: he/him
+-  Hi, I’m @lucifer7911
+-  I’m interested in video editing and coding
+-  I’m Am Proficient in App Development(flutter),Back-end(Node-Js+Express),DevOps(Azure)
+-  I am Currently in My 3rd Year Of My College
+-  I’m looking to collaborate on projects
+-  How to reach me -@2k23.csaiml2311171@gmail.com
+-  Pronouns: he/him
