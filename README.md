@@ -22,7 +22,7 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/kaustubh-trivedi" target="_blank">
+  <a href="https://www.linkedin.com/in/kaustubh-trivedi-90b524289/" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark">
       <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
