@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#00C4FF">Kaustubh Trivedi</span></h1>
 
 <p align="center">
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/flutter-logo.png" height="70" alt="Flutter Logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" height="70" alt="Flutter Logo"/>
   &nbsp;&nbsp;
   <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-vertical.png" height="70" alt="Firebase Logo"/>
 </p>
