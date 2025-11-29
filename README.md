@@ -2,14 +2,21 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#00C4FF">Kaustubh Trivedi</span></h1>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" height="70" alt="Flutter Logo"/>
+  <!-- Spider-Man Theme -->
+  <img src="https://static.wikia.nocookie.net/marveldatabase/images/0/07/Spider-Man_Logo.png" height="70" alt="Spider-Man Logo"/>
   &nbsp;&nbsp;
-  <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-vertical.png" height="70" alt="Firebase Logo"/>
+  <!-- App Developer Highlight -->
+  <h3 align="center">
+    <span style="color:#FF1E1E; font-weight:700;">🔥 App Developer | Web + Mobile | Spider-Man Fan 🕷️</span>
+  </h3>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&random=false&width=650&lines=Flutter+Developer+💙;Firebase+%26+Riverpod+Enthusiast+🔥;Backend+%26+Cloud+Integration+Learner+☁️;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF1E1E&center=true&vCenter=true&random=false&width=650&lines=App+Developer+🚀;Firebase+%26+Cloud+Integration+🔥;Riverpod+Enthusiast+☁️;Building+Scalable+Apps+💙;Friendly+Neighbourhood+Coder+🕷️"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
@@ -22,7 +29,7 @@
 - 💬 Ask me about **Flutter, Dart, Node.js, SQL, Azure, Firebase**  
 - 📄 View Resume → [Click Here](https://drive.google.com/file/d/1-SET91gVUtPHhz8EfE-P9zQJkFEpwkv4/view?usp=sharing)  
 - 📫 Reach me at **2k23.csaiml2311171@gmail.com**  
-- ⚡ Fun fact: **I’m a sarcastic guy 😄**
+- ⚡ Fun fact: **With great power comes great responsibility 🕷️😉**
 
 ---
 
@@ -57,14 +64,29 @@
 
 ---
 
+## 📊 Spider Analytics (GitHub Stats in Spider-Man Theme)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucifer7911&show_icons=true&theme=radical&title_color=FF1E1E&icon_color=FF1E1E&text_color=FFFFFF&bg_color=0D1117" height="170"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer7911&layout=compact&theme=radical&title_color=FF1E1E&text_color=FFFFFF&bg_color=0D1117" height="170"/>
+</p>
+
+<!-- Spider Web Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucifer7911&theme=react-dark&area=true&point=FF1E1E&line=FF1E1E&color=FF1E1E" />
+</p>
+
+---
+
 ## 🧠 Current Focus  
 Crafting **beautiful, scalable apps** using **Flutter + Firebase** 💙  
-Exploring **Cloud Integrations**, **Riverpod Architecture**, and **App Performance Optimization**.
+Exploring **Cloud Integrations**, **Riverpod Architecture**, and **Performance Optimization**.
 
 ---
 
 ## 💡 Quote I Live By  
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
+> *"With great power comes great responsibility."* – Uncle Ben 🕷️  
 
 ---
 
